@@ -1,1 +1,1 @@
-# Frozen-Lake_RL-Project
+# RL-Projects
